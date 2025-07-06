@@ -1,3 +1,3 @@
 # word-list
-Duolingo Chinese Vocabulary 6.37.2 - Section 1 Unit 1
-language-helper , список слов для помощи в изучении китайского языка
+Duolingo Chinese Vocabulary 6.37.2
+language-helper , актуальный список слов , которые изучаються в приложении Дуолинго в 1 модуле
